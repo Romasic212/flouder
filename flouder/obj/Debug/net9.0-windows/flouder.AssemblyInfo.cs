@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("flouder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49869fcd93ca83e18d6aef50061d08f71510d564")]
 [assembly: System.Reflection.AssemblyProductAttribute("flouder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("flouder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\проект ебаный\\flouder\\flouder.csproj",
+      "projectUniqueName": "C:\\Users\\Roma\\Desktop\\flouder\\flouder\\flouder.csproj",
       "projectName": "flouder",
-      "projectPath": "Z:\\проект ебаный\\flouder\\flouder.csproj",
+      "projectPath": "C:\\Users\\Roma\\Desktop\\flouder\\flouder\\flouder.csproj",
       "packagesPath": "C:\\Users\\Roma\\.nuget\\packages\\",
-      "outputPath": "Z:\\проект ебаный\\flouder\\obj\\",
+      "outputPath": "C:\\Users\\Roma\\Desktop\\flouder\\flouder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
